@@ -1,0 +1,9 @@
+/* styles.css */
+/* Add some styling for collapsible content */
+.collapsible {
+  display: none;
+}
+
+.collapsible.active {
+  display: block;
+}
